@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👋 Hi, I'm Nayan
@@ -7,7 +6,7 @@
 
 Building modern frontend applications and AI-assisted experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+Developer;TypeScript+Enthusiast;Frontend+Engineer;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+Developer;TypeScript+Enthusiast;Frontend+Engineer" />
 
 </div>
 
@@ -80,4 +79,3 @@ Most repositories here are focused on:
 ### 🚀 Always Learning • Always Building
 
 </div>
-```
