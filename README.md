@@ -6,7 +6,7 @@
 
 Building modern frontend applications and AI-assisted experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+Developer;TypeScript+Enthusiast;Frontend+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+Developer;TypeScript+Enthusiast;Frontend+Engineer" alt="typing animation" />
 
 </div>
 
@@ -24,9 +24,30 @@ Building modern frontend applications and AI-assisted experiences.
 
 ## 🔥 Current Project
 
-### 🎯 SkillGauge *(WIP)*
+### 🎯 SkillGauge *(Work In Progress)*
 
-AI-assisted interview preparation platform focused on modern frontend architecture and user experience patterns.
+AI-assisted interview preparation platform focused on realistic interview workflows and structured feedback experiences.
+
+#### ⚙️ Tech Stack
+
+**Frontend**
+- React
+- TypeScript
+- Vite
+- React Router
+- TailwindCSS
+
+**UI & Components**
+- Shadcn/UI
+- Radix UI
+- Lucide Icons
+
+**Learning / Exploring**
+- Node.js
+- PostgreSQL
+- Vector Search
+- Docker
+- CI/CD
 
 ---
 
@@ -34,7 +55,7 @@ AI-assisted interview preparation platform focused on modern frontend architectu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,postgres,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,postgres,docker,git,github,vscode" alt="tech stack icons" />
 
 </div>
 
