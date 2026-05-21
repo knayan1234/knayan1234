@@ -1,4 +1,4 @@
-````md id="x7n2pk"
+```md
 <div align="center">
 
 # 👋 Hi, I'm Nayan
@@ -59,7 +59,7 @@ Most repositories here are focused on:
 ✔ Frontend architecture
 ✔ AI-assisted workflows
 ✔ DSA & problem solving
-````
+```
 
 ---
 
@@ -67,9 +67,9 @@ Most repositories here are focused on:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/knayan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/knayan)
 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/knayan1234)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knayan1234)
 
 </div>
 
