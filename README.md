@@ -1,98 +1,83 @@
+````md id="x7n2pk"
 <div align="center">
 
 # 👋 Hi, I'm Nayan
 
 ### React & TypeScript Developer
 
-Building modern frontend applications, scalable UI systems, and AI-assisted user experiences.
+Building modern frontend applications and AI-assisted experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+Developer;TypeScript+Enthusiast;Frontend+Engineer;Building+Modern+UI+Systems;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+Developer;TypeScript+Enthusiast;Frontend+Engineer;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-# 🔥 Current Project
-
-## 🎯 SkillGauge *(Work In Progress)*
-
-AI-assisted interview preparation platform focused on realistic interview workflows and structured feedback experiences.
-
----
-
-## ⚙️ Tech Stack
-
-### Frontend
-- React
-- TypeScript
-- Vite
-- React Router
-- TailwindCSS
-
-### UI & Components
-- Shadcn/UI
-- Radix UI
-- Lucide Icons
-
-### Learning / Exploring
-- Node.js
-- PostgreSQL
-- Vector Search
-- Docker
-- CI/CD
-
----
-
-# 🚀 About Me
+## 🚀 About Me
 
 - 💼 Frontend Developer with **3+ years** of experience
 - ⚛️ Focused on **React, TypeScript, and frontend engineering**
-- 🤖 Interested in **AI-assisted workflows and modern web applications**
-- 🛠️ Passionate about:
-  - Frontend architecture
-  - Reusable UI systems
-  - Performance optimization
-  - Clean and maintainable code
+- 🤖 Exploring **AI-assisted workflows**
 - 📈 Worked on applications supporting **2,000+ to 100,000+ users**
-- 🧠 Continuously learning and exploring modern frontend technologies
+- 🧠 Continuously learning modern frontend technologies
 
 ---
 
-# 🛠️ Tech Stack
+## 🔥 Current Project
+
+### 🎯 SkillGauge *(WIP)*
+
+AI-assisted interview preparation platform focused on modern frontend architecture and user experience patterns.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## Frontend
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
-
-## Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker" />
-
-## Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,postgres,docker,git,github,vscode" />
 
 </div>
 
 ---
 
-# 📚 What You'll Find Here
+## 📚 Repositories
 
 Most repositories here are focused on:
-- Learning and experimentation
-- Frontend engineering concepts
-- JavaScript and TypeScript practice
-- React architecture exploration
+- Frontend learning
+- React experiments
+- JavaScript & TypeScript practice
 - DSA and problem solving
-- UI implementation experiments
-- AI-assisted application workflows
+- UI implementation practice
 
 ---
 
-# 📈 Current Focus
+## 📈 Current Focus
 
 ```txt
-✔ Building production-focused React applications
-✔ Improving frontend architecture skills
-✔ Learning scalable AI-assisted workflows
-✔ Writing maintainable TypeScript
-✔ Practicing DSA and problem solving
+✔ React & TypeScript
+✔ Frontend architecture
+✔ AI-assisted workflows
+✔ DSA & problem solving
+````
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/knayan)
+
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/knayan1234)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Always Learning • Always Building
+
+</div>
+```
