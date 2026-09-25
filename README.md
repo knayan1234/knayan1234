@@ -14,7 +14,7 @@ Building modern frontend applications and AI-assisted experiences.
 
 ## 🚀 About Me
 
-- 💼 Frontend Developer with **3+ years** of experience
+- 💼 Frontend Developer with **3.5+ years** of experience
 - ⚛️ Focused on **React, TypeScript, and frontend engineering**
 - 🤖 Exploring **AI-assisted workflows**
 - 📈 Worked on applications supporting **2,000+ to 100,000+ users**
